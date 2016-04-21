@@ -31,7 +31,7 @@ class BetterSmoochApiBot extends SmoochApiBot {
     }
 }
 
-const name = 'RBotO';
+const name = 'SmoochBot';
 const avatarUrl = 'https://s.gravatar.com/avatar/f91b04087e0125153623a3778e819c0a?s=80';
 const store = new SmoochApiStore({
     jwt
@@ -104,5 +104,5 @@ var server = app.listen(process.env.PORT || 8000, function() {
     var host = server.address().address;
     var port = server.address().port;
 
-    console.log('RBotO listening at http://%s:%s', host, port);
+    console.log('Smooch Bot listening at http://%s:%s', host, port);
 });
