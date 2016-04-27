@@ -1,10 +1,10 @@
 {
-    "HELLO": "Hey, I'm so glad you set ROBot up!",
-    "TWITTER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: http://bit.ly/robot-tweet",
+    "HELLO": "Hey, I'm ROBot. I'm Ruan's alter robot ego",
+    "TWITTER": "Let's tweet @Ruan_Odendaal so he knows you're chatting to ROBot. Here's a tweet that's ready to go: http://bit.ly/robot-tweet",
     "I LOVE YOU": "But we harldy know each other",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, ROBot is back.",
     "WHO ARE YOU?": "I'm a bot made by Ruan to help you, ask me something...",
-    "WHO ARE YOU": "I'm a bot made by Ruan to help you, ask me something..."
-
+    "WHO ARE YOU": "I'm a bot made by Ruan to help you, ask me something...",
+    ""
 }
