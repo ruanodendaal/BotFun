@@ -1,3 +1,15 @@
+Hey welcome to my ROBot based on EstherBot. If you'd like to setup your own follow the below instructions.
+
+Want to chat to my bot? Go to https://morning-falls-16453.herokuapp.com/
+
+Have fun. Ruan
+
+
+
+
+
+
+
 # EstherBot built using the Smooch Bot example
 If you want a slightly more sophisticated setup and are comfortable using the console then go see the original here: https://github.com/smooch/smooch-bot-example 
 
