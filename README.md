@@ -1,6 +1,6 @@
 Hey welcome to my ROBot based on EstherBot. If you'd like to setup your own follow the below instructions.
 
-Want to chat to my bot? Go to https://morning-falls-16453.herokuapp.com/
+Want to chat to my bot? Well I've taken it down...playing with some new concepts.
 
 Have fun. Ruan
 
